@@ -4,11 +4,11 @@ programs to check time efficiency of all sorting techniques
 To compile all files :
   
   
-  make 
+    make 
   
 To generate random input:
     
     make random
 To clean:
   
-  make clean
+    make clean
