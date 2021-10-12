@@ -10,4 +10,5 @@ To generate random input:
     
     make random
 To clean:
+  
   make clean
